@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clNotification"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F7FAFF">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/ivUserOne"
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_marginStart="15dp"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tvPassenger"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="@null" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvPassenger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:layout_marginEnd="15dp"
+        android:text="You have new consultation request"
+        android:textColor="#673AB7"
+        android:textSize="12sp"
+        app:fontFamily="casual"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ivUserOne"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/tvView"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="20sp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvPassenger" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
