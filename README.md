@@ -27,7 +27,7 @@ The project uses the following dependencies:
 
 Make sure to check the build.gradle file for the complete list of dependencies.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
 ## About the Author
