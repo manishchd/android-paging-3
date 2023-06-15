@@ -2,12 +2,11 @@
 This is a sample project showcasing how to implement the Android Paging 3 library with a placeholder for the loading state.
 
 ## Features
-Fetches data from a remote data source using Retrofit.
-Implements the Paging 3 library for pagination.
-Displays a placeholder while loading the data.
-Handles error states and retry functionality.
-Uses the MVVM architecture pattern.
-Includes unit tests for the view model and repository.
+- Fetches data from a remote data source using Retrofit.
+- Implements the Paging 3 library for pagination.
+- Displays a placeholder while loading the data.
+- Handles error states and retry functionality.
+- Uses the MVVM architecture pattern.
 
 ## Getting Started
 To run this project locally, follow these steps:
