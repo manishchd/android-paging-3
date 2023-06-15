@@ -11,7 +11,7 @@ This is a sample project showcasing how to implement the Android Paging 3 librar
 ## Getting Started
 To run this project locally, follow these steps:
 
-Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/manishchd/android-paging-3)
+Clone the repository: git clone [https://github.com/manishchd/android-paging-3.git](https://github.com/manishchd/android-paging-3)
 Open the project in Android Studio.
 Build and run the project on an emulator or a physical device.
 
