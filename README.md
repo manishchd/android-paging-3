@@ -31,4 +31,4 @@ Make sure to check the build.gradle file for the complete list of dependencies.
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
 # Hi, I'm Manish Mishra! 👋
-I am an Android developer with experience in building high-quality mobile applications. I am passionate about creating clean and maintainable code and loves to share his knowledge with others. You can connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-manish).
+I am an Android developer with experience in building high-quality mobile applications. I am passionate about creating clean and maintainable code and love to share my knowledge with others. You can connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra-manish).
